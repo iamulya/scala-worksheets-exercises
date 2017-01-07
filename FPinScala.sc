@@ -101,3 +101,4 @@ val brokenList = MyList.drop(myList, 5)
 val tailsyo = MyList.tail(myList)
 val inityo = MyList.init(myList)
 val dropyo = MyList.dropWhile[Int](myList, (_ => true))
+
